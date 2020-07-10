@@ -1,3 +1,10 @@
+/*js*/
+
 dist
 yarn.lock
 node_modules
+
+/*c code .so project*/
+CMakeFiles
+cmake_install.cmake
+CMakeCache.txt
